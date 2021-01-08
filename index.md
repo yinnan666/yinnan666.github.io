@@ -1,4 +1,13 @@
-`<title> **MC113**`
+`<!DOCTYPE html>`
+<html>
+
+<head>
+    <script>
+        function back() {
+            window.open("CTD.html", "newwindow", "height=100, width=400, toolbar=no, menubar=no, scrollbars=no, resizable=no, location=no, status=no");
+        }
+    </script>
+    <title>MC113</title>
 
 ## Welcome to MC113我的世界中文论坛
 
